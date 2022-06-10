@@ -9,6 +9,8 @@ import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 
+/* Eliminado temporalmente mostrar el componente Testimonials */
+
 const App = () => {
   return (
     <>
@@ -18,7 +20,6 @@ const App = () => {
       <Experience/>
       <Services/>
       <Portfolio/>
-      <Testimonials/>
       <Contact/>
       <Footer/>
     </>

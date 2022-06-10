@@ -35,9 +35,14 @@
 }
 
 .service_list li {
-    display: flex;
-    gap: 1rem;
-    margin-bottom: 0.8rem;
+    margin-bottom: 1.5rem;
+}
+
+hr {
+    background-color: var(--color-primary);
+    border: 0.5px solid var(--color-primary);
+    width: 30%;
+    margin: 0 auto 1.5rem;
 }
 
 .service_list_icon {
@@ -47,6 +52,7 @@
 
 .service_list p {
     font-size: 0.9rem;
+    text-align: center;
 }
 
 @media screen and (max-width: 1024px) {

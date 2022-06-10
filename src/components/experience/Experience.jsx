@@ -15,44 +15,58 @@ const Experience = () => {
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_icon'/>
               <div>
-                <h4>HTML5</h4>
+                <h4>HTML</h4>
                 <small className='text-light'>Avanzado</small>
               </div>
             </article>
             <article className='experience_details'>
-                <BsFillPatchCheckFill className='experience_icon'/>
-                <div>
-                  <h4>CSS3</h4>
-                  <small className='text-light'>Avanzado</small>
-                </div>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>CSS</h4>
+                <small className='text-light'>Avanzado</small>
+              </div>
             </article>
             <article className='experience_details'>
-                <BsFillPatchCheckFill className='experience_icon'/>
-                <div>
-                  <h4>JavaScript</h4>
-                  <small className='text-light'>Avanzado</small>
-                </div>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>JavaScript</h4>
+                <small className='text-light'>Avanzado</small>
+              </div>
             </article>
             <article className='experience_details'>
-                <BsFillPatchCheckFill className='experience_icon'/>
-                <div>
-                  <h4>jQuery</h4>
-                  <small className='text-light'>Avanzado</small>
-                </div>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>jQuery</h4>
+                <small className='text-light'>Avanzado</small>
+              </div>
             </article>
             <article className='experience_details'>
-                <BsFillPatchCheckFill className='experience_icon'/>
-                <div>
-                  <h4>ReactJS</h4>
-                  <small className='text-light'>Avanzado</small>
-                </div>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>React</h4>
+                <small className='text-light'>Avanzado</small>
+              </div>
             </article>
             <article className='experience_details'>
-                <BsFillPatchCheckFill className='experience_icon'/>
-                <div>
-                  <h4>Angular</h4>
-                  <small className='text-light'>Avanzado</small>
-                </div>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>Bootstrap</h4>
+                <small className='text-light'>Avanzado</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>ES5/ES6</h4>
+                <small className='text-light'>Intermedio</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>TypeScript</h4>
+                <small className='text-light'>Intermedio</small>
+              </div>
             </article>
           </div>
         </div>
@@ -63,13 +77,6 @@ const Experience = () => {
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_icon'/>
               <div>
-                <h4>NodeJS</h4>
-                <small className='text-light'>Avanzado</small>
-              </div>
-            </article>
-            <article className='experience_details'>
-              <BsFillPatchCheckFill className='experience_icon'/>
-              <div>
                 <h4>Java</h4>
                 <small className='text-light'>Avanzado</small>
               </div>
@@ -77,7 +84,21 @@ const Experience = () => {
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_icon'/>
               <div>
+                <h4>NodeJS</h4>
+                <small className='text-light'>Avanzado</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
                 <h4>PHP</h4>
+                <small className='text-light'>Básico</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>MySQL</h4>
                 <small className='text-light'>Avanzado</small>
               </div>
             </article>
@@ -85,13 +106,27 @@ const Experience = () => {
               <BsFillPatchCheckFill className='experience_icon'/>
               <div>
                 <h4>MongoDB</h4>
+                <small className='text-light'>Intermedio</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>JSON</h4>
                 <small className='text-light'>Avanzado</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_icon'/>
               <div>
-                <h4>MySQL</h4>
+                <h4>REST</h4>
+                <small className='text-light'>Avanzado</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsFillPatchCheckFill className='experience_icon'/>
+              <div>
+                <h4>Wordpress</h4>
                 <small className='text-light'>Avanzado</small>
               </div>
             </article>

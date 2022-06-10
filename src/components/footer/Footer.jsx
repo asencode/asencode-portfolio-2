@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import { FaFacebookF, FaInstagram, FaTwitter } from 'react-icons/fa'
+import { BsGithub, BsInstagram, BsLinkedin } from 'react-icons/bs'
 
 const Footer = () => {
   return (
@@ -15,14 +15,13 @@ const Footer = () => {
         <li><a href="#experience">Experiencia</a></li>
         <li><a href="#services">Servicios</a></li>
         <li><a href="#portfolio">Proyectos</a></li>
-        <li><a href="#testimonials">Reviews</a></li>
         <li><a href="#contact">Contacto</a></li>
       </ul>
 
       <div className="footer_socials">
-        <a href="https://facebook.com"><FaFacebookF/></a>
-        <a href="https://instagram.com"><FaInstagram/></a>
-        <a href="https://twitter.com"><FaTwitter/></a>
+        <a href="https://instagram.com/asencode_oficial" target="_blank" rel="noopener noreferrer"><BsInstagram/></a>
+        <a href="https://www.linkedin.com/in/angel-castillo-asensio/" target="_blank" rel="noopener noreferrer"><BsLinkedin/></a>
+        <a href="https://github.com/asencode" target="_blank" rel="noopener noreferrer"><BsGithub/></a>
       </div>
 
       <div className="footer_copyright">

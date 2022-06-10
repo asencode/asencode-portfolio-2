@@ -5,8 +5,8 @@ const HeaderSocials = () => {
   return (
     <div className='header_socials'>
         <a href="https://www.linkedin.com/in/angel-castillo-asensio/" target="_blank" rel="noopener noreferrer"><BsLinkedin/></a>
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><BsGithub/></a>
-        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"><BsInstagram/></a>
+        <a href="https://github.com/asencode" target="_blank" rel="noopener noreferrer"><BsGithub/></a>
+        <a href="https://instagram.com/asencode_oficial" target="_blank" rel="noopener noreferrer"><BsInstagram/></a>
     </div>
   )
 }
